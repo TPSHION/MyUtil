@@ -1,4 +1,4 @@
-package com.wsyy.util;
+package com.tpshion.util;
 
 import java.util.Collection;
 import java.util.HashMap;
