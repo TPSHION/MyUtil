@@ -1,4 +1,4 @@
-package com.wsyy.util;
+package com.tpshion.util;
 
 public class PageHelper{
 	
