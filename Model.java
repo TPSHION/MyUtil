@@ -71,4 +71,8 @@ public class Model extends HashMap<String, Object>{
 		
 	    return addAttribute("list", list);
 	}
+	
+	public Object getAttribute(String attributeName){
+		return get(attributeName);
+	}
 }
